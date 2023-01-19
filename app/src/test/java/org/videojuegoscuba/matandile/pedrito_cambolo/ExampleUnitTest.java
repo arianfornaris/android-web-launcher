@@ -1,4 +1,4 @@
-package org.videojuegoscuba.matandile.pedrito_cambolo;
+package norbyworld.weblauncher;
 
 import org.junit.Test;
 

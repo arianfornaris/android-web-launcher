@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "Pedrito Cambolo"
+rootProject.name = "Web Launcher"
 include ':app'
