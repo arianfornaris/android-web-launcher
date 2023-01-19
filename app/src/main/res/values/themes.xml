@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="AppTheme.NoActionBar" parent="Theme.AppCompat.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:background">#c64245</item>
+    </style>
+
+    <style name="Theme.MyApplication" parent="AppTheme.NoActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
